@@ -5,6 +5,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "jest": "^29.7.0"
+    "jest": "^30.0.0"
   }
 }
